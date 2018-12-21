@@ -10,8 +10,7 @@ The code is built on java spring boot with JAVA 8.
 
 **Data accepted (JSON):**
 
-```
-[
+```[
     {
         "name":"name of employee",
         "schedule":[
@@ -28,11 +27,10 @@ The code is built on java spring boot with JAVA 8.
             "09:00"
         ] 
     },
-]
+]```
 
 **Data returned (JSON):**
-```
-[
+```[
   {
     "start": "08:00:00",
     "end": "08:30:00",
@@ -42,5 +40,5 @@ The code is built on java spring boot with JAVA 8.
       "Juan"
     ]
   },
-]
+]```
 
