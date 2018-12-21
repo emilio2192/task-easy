@@ -27,7 +27,7 @@ The code is built on java spring boot with JAVA 8.
             "09:00"
         ] 
     },
-]```
+]
 
 **Data returned (JSON):**
 ```[
