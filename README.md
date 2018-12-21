@@ -30,3 +30,17 @@ The code is built on java spring boot with JAVA 8.
     },
 ]
 
+**Data returned (JSON):**
+```
+[
+  {
+    "start": "08:00:00",
+    "end": "08:30:00",
+    "persons": [
+      "Emilio",
+      "Luis",
+      "Juan"
+    ]
+  },
+]
+
