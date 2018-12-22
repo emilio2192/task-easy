@@ -1,4 +1,4 @@
-package com.taskeasy.meeting;
+package com.taskeasy.meeting.utils;
 
 import java.time.LocalTime;
 import java.time.ZoneId;

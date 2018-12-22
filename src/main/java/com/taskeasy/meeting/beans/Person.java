@@ -1,4 +1,4 @@
-package com.taskeasy.meeting;
+package com.taskeasy.meeting.beans;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
